@@ -1,3 +1,15 @@
+# Type Anything
+
+An openai tool to type stuff for you
+
+## Additional setup
+
+In addition to all the stuff below you'll need to add an open ai API key. Open or create `.env.local` and add the following:
+
+```
+OPENAI_API_KEY=sk-youropenaiapikey
+```
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
